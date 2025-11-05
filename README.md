@@ -621,12 +621,6 @@ docs(api): update endpoint documentation
 test(auth): add unit tests for login flow
 ```
 
-## 🙏 Acknowledgments
-
-- **FastAPI** team for the excellent web framework
-- **React** team for the powerful UI library
-- **Tailwind CSS** for the utility-first CSS framework
-- **PostgreSQL** community for the robust database system
 
 
 ---
