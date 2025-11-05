@@ -17,7 +17,7 @@ A modern, full-stack web application for intelligent meeting slot swapping and s
 - [Docker Deployment](#docker-deployment)
 - [Assumptions & Challenges](#assumptions--challenges)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎯 Overview
 
@@ -620,10 +620,6 @@ fix(swaps): resolve duplicate request issue
 docs(api): update endpoint documentation
 test(auth): add unit tests for login flow
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
